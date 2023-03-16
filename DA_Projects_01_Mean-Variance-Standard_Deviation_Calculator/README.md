@@ -1,4 +1,20 @@
-Mean-Variance-Standard Deviation Calculator
+# freeCodeCamp - Data Analysis with Python - Projects - I - Mean-Variance-Standard Deviation Calculator - Instructions
+
+
+# 1. Projects - Mean-Variance-Standard Deviation Calculator
+
+This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+
+You will be working on this project with our Replit starter code.
+
+  *  Start by importing the project on Replit.
+  *  Next, you will see a .replit window.
+  *  Select Use run command and click the Done button.
+
+We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
+
+  *  Python for Everybody Video Course (14 hours)
+  *  How to Analyze Data with Python Pandas (10 hours)
 
 Create a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
@@ -29,3 +45,15 @@ For example, calculate([0,1,2,3,4,5,6,7,8]) should return:
 }
 
 The unit tests for this project are in test_module.py.
+Development
+
+For development, you can use main.py to test your calculate() function. Click the "run" button and main.py will run.
+
+# Testing
+
+We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
+
+# Submitting
+
+Copy your project's URL and submit it to freeCodeCamp.
+
