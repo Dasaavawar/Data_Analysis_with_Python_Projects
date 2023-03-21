@@ -1,7 +1,7 @@
 # freeCodeCamp - Data Analysis with Python - Projects - I - Mean-Variance-Standard Deviation Calculator - Instructions
 
 
-# 1. Projects - Mean-Variance-Standard Deviation Calculator
+## 1. Projects - Mean-Variance-Standard Deviation Calculator
 
 This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 
@@ -45,14 +45,15 @@ For example, calculate([0,1,2,3,4,5,6,7,8]) should return:
 }
 
 The unit tests for this project are in test_module.py.
-Development
+
+## Development
 
 For development, you can use main.py to test your calculate() function. Click the "run" button and main.py will run.
 
-# Testing
+## Testing
 
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-# Submitting
+## Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
