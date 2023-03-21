@@ -1,7 +1,7 @@
 # freeCodeCamp - Data Analysis with Python - Projects - IV - Page View Time Series Visualizer - Instructions
 
 
-# 4. Projects - Page View Time Series Visualizer
+## 4. Projects - Page View Time Series Visualizer
 
 This is the boilerplate for the Page View Time Series Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
 
@@ -30,14 +30,14 @@ For each chart, make sure to use a copy of the data frame. Unit tests are writte
 
 The boilerplate also includes commands to save and return the image.
 
-# Development
+### Development
 
 For development, you can use main.py to test your functions. Click the "run" button and main.py will run.
 
-# Testing
+### Testing
 
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-# Submitting
+### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
