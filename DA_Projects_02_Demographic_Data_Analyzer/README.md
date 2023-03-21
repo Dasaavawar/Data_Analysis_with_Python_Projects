@@ -1,7 +1,7 @@
 # freeCodeCamp - Data Analysis with Python - Projects - II - Demographic Data Analyzer - Instructions
 
 
-# 2. Projects - Demographic Data Analyzer
+## 2. Projects - Demographic Data Analyzer
 
 This is the boilerplate for the Demographic Data Analyzer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
 
@@ -42,17 +42,17 @@ Use the starter code in the file demographic_data_analyzer. Update the code so a
 
 Unit tests are written for you under test_module.py.
 
-# Development
+### Development
 
 For development, you can use main.py to test your functions. Click the "run" button and main.py will run.
 Testing
 
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-# Submitting
+### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
 
-# Dataset Source
+### Dataset Source
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
